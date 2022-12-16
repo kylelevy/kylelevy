@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Hi! I am a Mechatronics and Robotics Engineering student at Queen's University. <br>🧠 I am interested in automation, AI, machine learning and analytics. <br>⚙ In this portfolio, you will be able to learn a little about me, see some of my previous projects and can connect with me. <br>📱 Please feel free to reach out if you have any further questions!
+🤖 Hi! I am a Mechatronics and Robotics Engineering student at Queen's University. <br>🧠 I am interested in automation, AI, machine learning and analytics. <br>⚙ In this portfolio, you will be able to learn a little about me, and see some of my previous projects. <br>📱 Please feel free to reach out if you have any further questions!
 
 
 ## 🌐 Socials:
