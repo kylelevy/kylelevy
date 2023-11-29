@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/kylelevy/kylelevy/assets/37563214/0cad9ae7-9a95-4717-b403-610ca8e0fd80)
+
 # 💫 About Me:
 🤖 Hi! I am a Mechatronics and Robotics Engineering student at Queen's University. <br>🧠 I am interested in automation, AI/ML, embedded systems, control systems and robotics. <br>⚙ In this portfolio, you can learn a little about me and see some of my previous projects. <br>📱 Please feel free to reach out if you have any further questions!
 
